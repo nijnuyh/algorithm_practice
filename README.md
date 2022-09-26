@@ -1,1 +1,1 @@
-# algorithm_practice-
+# 알고리즘 이론 및 예제 공부
